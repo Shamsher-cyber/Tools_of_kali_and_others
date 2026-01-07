@@ -1,15 +1,3 @@
-Got it 👍
-Below is a **clean, professional, and corrected README** based on your original content. I’ve fixed:
-
-* Grammar and spelling
-* Command formatting
-* Structure and flow
-* Technical clarity
-* Consistent Markdown style
-
-I **did not change your intent or tools**, only made it professional and industry-standard.
-
----
 
 # DVWA Installation on Kali Linux (Using PentestLab)
 
