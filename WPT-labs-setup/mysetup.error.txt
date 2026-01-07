@@ -1,0 +1,16 @@
+## ----> ager localhost pr dvwa login page nhi show ho raha hai or dvwa ko pentestlab.sh ki help say start kra hai ton first you run this 
+command in the /var/www/html/ 
+
+1) - bash pentestlab.sh stop dvwa 
+ 
+
+```
+   rm index.html index.nginx-debian.html
+
+```
+
+just do that and now
+
+bash pentestlab.sh start dvwa 
+
+and see in the browser !!  
